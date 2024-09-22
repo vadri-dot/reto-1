@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    text-align: center;
+    margin-top: 7%;
+    font-size: 40px;
+}
+
+.desc{
+    text-align: center;
+    font-size: 30px;
+}
+
+.preguntas h2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.preguntas p{
+    width: 700px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 10%;
+    border-radius: 10px;
+    font-size: 30px;
+   
+}
+
+
+.preguntas{
+    width: 1000px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+
+.preguntas ol{
+    text-align: center;
+    font-size: 20px;
+}
+
+.preguntas ul{
+    text-align: center;
+    font-size: 20px;
+}
+
+.preguntas a{
+    color: rgb(88, 101, 249);
+    text-decoration: none;
+    gap: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
